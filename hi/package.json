@@ -3,5 +3,8 @@
   "version": "0.0.0",
   "scripts": {
     "test": "nodemon index.jsx"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6"
   }
 }
